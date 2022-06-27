@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Anup4944&show_icons=true&theme=radical"/>  
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anup4944&theme=tokyonight"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anup4944&theme=tokyonight&layout=compact"/>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anup4944&repo=e-commerce&show_owner=true)](https://github.com/Anup4944/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anup4944&repo=PersonalWebsite&show_owner=true)](https://github.com/Anup4944/github-readme-stats)
 
 
 
