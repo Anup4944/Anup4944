@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anup4944&theme=radical)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anup4944&theme=tokyonight)
 
