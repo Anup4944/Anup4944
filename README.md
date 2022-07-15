@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React, Node, JavaScript, TypeScript and MongoDB**
 
-- 🌱 I’m currently learning **TypeScript, React Native and Tailwind CSS**
+- 🌱 I’m currently learning **TypeScript, React Native, PHP , Laravel and Tailwind CSS**
 
 - 📫 How to reach me **anuppoudel60@gmail.com**
 
