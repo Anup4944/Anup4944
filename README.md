@@ -2,7 +2,7 @@
 
 <h3 align="left">A passionate full stack developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anup4944&label=Profile%20views&color=0e75b6&style=flat" alt="anup4944" /> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://anuppoudel.netlify.app/](https://anuppoudel.netlify.app/)
 
