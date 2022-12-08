@@ -25,11 +25,6 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anup4944&theme=tokyonight&layout=compact"/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anup4944&repo=e-commerce&show_owner=true)](https://github.com/Anup4944/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anup4944&repo=PersonalWebsite&show_owner=true)](https://github.com/Anup4944/github-readme-stats)
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
