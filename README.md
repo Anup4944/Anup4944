@@ -6,9 +6,9 @@
 
 - 👨‍💻 All of my projects are available at [https://anuppoudel.netlify.app/](https://anuppoudel.netlify.app/)
 
-- 💬 Ask me about **React, Node, JavaScript, TypeScript, Redux, GraphQL, Tailwind CSS and MongoDB**
+- 💬 Ask me about **Next JS, React, Node, JavaScript, TypeScript, Redux, GraphQL, Tailwind CSS and MongoDB**
 
-- 🌱 I’m currently learning **React Native, PHP , Laravel , Vue JS and MySQL**
+- 🌱 I’m currently learning **React Native and AWS Stacks**
 
 - 📫 How to reach me **anuppoudel60@gmail.com**
 
