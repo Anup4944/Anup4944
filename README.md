@@ -4,7 +4,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://anuppoudel.netlify.app/](https://anuppoudel.netlify.app/)
+- 👨‍💻 All of my projects are available at https://portfolio-anup4944s-projects.vercel.app/
 
 - 💬 Ask me about **Next JS, React, Node, JavaScript, TypeScript, Redux, GraphQL, Tailwind CSS and MongoDB**
 
