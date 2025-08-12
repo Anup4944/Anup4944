@@ -1,6 +1,4 @@
-### Hi there, I'm Anup 👋
-
-<h3 align="left">💻 # Hi, I'm Anup 👋, A passionate Full Stack Developer based in Sydney, Australia.</h3>
+<h3 align="left">💻 Hi, I'm Anup 👋, A passionate Full Stack Developer based in Sydney, Australia.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Anup4944&label=Profile%20views&color=0e75b6&style=flat" alt="Anup4944" /> 
